@@ -1,0 +1,49 @@
+Bugs: 
+
+when i click go back in reports the "<" then when i change "Percentage"
+more and more dates get added 0000000000
+
+
+
+New features:
+
+1) shadow when you make the screen very tiny add alpha slide bar
+2) add a label saying "using the application since ...(date)" 
+maybe above the label chart since you can know the percentage started since when.
+
+## Excellent Feature:
+3) build a page that analyse the student , check his section (math, science, eco, lettre) then check his overall statics (pie chart) and tell him which subject he need to focus on more, maybe a paragraph like this for example :
+"Your overall study distribution hours are {Excellent/ satisfying/ good/ acceptable/ almost bad/ bad}, I noticed that you have been giving attention to {subject_name} more than {subject_less_focused_on_name} i would recommend you to spend bit more time on {subject_less_focused_on_name}, i suggest you follow this list"
+
+!# Check 'Response Urgency: Awaiting..' room in Chatgpt it has 5 different messages, make more #!
+
+
+maybe even add a colored scale green to red meaning is he doing well normal or bad according to his section. (it's offcourse approximate make sure to write that since students are not all the same some never study for a subject yet they get excellent scores
+
+
+BRILLIANT PLAN!!!!!!!!!!!!!!!!!!!!!! : 
+Build a chatbot, give it a name, picture, just like mini chatgpt that you could talk with about your study stuff, it will be responsible to give you all the suggestions and stuff i mentioned earlier about your overall studied hours n stuff ,maybe make a 3rd room special for talking with this bot only, also make the messages have emojis hehe.
+
+4) Check the picture "idea" i put in the folder, maybe make a similar thing in a Dashboard room make it 1st room like first thing user sees when he opens the application, tells him his section, how many messages he have sent to the bot and vis-versa, since when he have been using the app, hours spent on the application (probably have to make a timer that runs behind the scenes), and if data doesnt exists place 'No Data ' like in the picture.
+
+5) the chat room could have a notification red thing if a message was displayed and if the user is in the chatting room or just enters it , remove the notification (just like facebook notification bell) maybe even add the bot profile pic on the room button.
+
+6) this notification could be like a message if the user have been studing for quite time maybe if he achieves the percentage he must study for example he studied 80% of the must study percentage of 7 days the chatbot motivates him by saying "Double digits! You've hit a 10-day study streak. Your consistency is building a foundation for success. Keep going!"
+
+7) el pie chart rodha twarilek daily/ per week/ monthly if possible
+
+8) el weekly bar chart rodha twari months ? years ?? :D
+
+9) lapp mo5tassa ljma3et lycyeet donc 5alahom ida5lou cho3ba mta3hom, wba3ed twali tasne3 faza t9olhom chnoi lazemhom irevzou bch keka ikounou equilibre fil les matieres maybe a colored scale for each subject , subject eli to93ed mhamla barcha turns to red , eli 9araha barcha twali green weli nos nos yellow
+
+INTRO : kenek metlamtha eli la9in sou3ouba bch ikounou mtwaznin fil les matieres kifi wia3tou kol matiere 7a9ha, el tatbi9 atom y5alik tchouf nesbt lwa9it eli 9retou fi kol matiere bshakel 3am wmen na7ia o5ra ia3tik 9adech 9ret fi nhar bel percentage wela b3dad eswaye3 kima t7eb enty, etatbi9 hatha isahalek bch etabe3 ta9adomek w ia3tik forsa bch tnathem ro7ik wi7afzek bch t7afeth 3la el istimrar fi 9raytek.
+
+ربي ينجحكم وتحققوا المعدل اللي تحلموا بيه، وتخذوا المستقبل اللي تتمنوه. 🌟 
+
+
+ كانك مالتلامذا الي لاقين صعوبة بش يكوانو متوازنين في les matieres كيفي و يعطيوا كل  matiere حقها, التطبيق اتوم يخليك تشوف نسبت الوقت الي قريتوا في كل matiere بشكل عام ومن ناحية اخرى يعطيك قداش قريت كل نهار بالpercentage والا بعدد السوايع كيما تحب انتي , التطبيق يسهلك بش اتبع تقدمك و يعطيك الفرصة بش تنظم روحك ويحفزك بش تحافظ على الاستمرار في قرايتك 
+
+
+
+
+

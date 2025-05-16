@@ -1,0 +1,38 @@
+Bugs: 
+
+when i click go back in reports the "<" then when i change "Percentage"
+more and more dates get added 0000000000
+
+
+
+New features:
+
+1) shadow when you make the screen very tiny add alpha slide bar
+2) add a label saying "using the application since ...(date)" 
+maybe in above the label chart since you can know the percentage started since when.
+
+## Excellent Feature:
+3) build a page that analyse the student , check his section (math, science, eco, lettre) then check his overall statics (pie chart) and tell him which subject he need to focus on more, maybe a paragraph like this for example :
+"Your overall study distribution hours are {Excellent/ satisfying/ good/ acceptable/ almost bad/ bad}, I noticed that you have been giving attention to {subject_name} more than {subject_less_focused_on_name} i would recommend you to spend bit more time on {subject_less_focused_on_name}, i suggest you follow this " 
+
+
+maybe even add a colored scale green to red meaning is he doing well normal or bad according to his section. (it's offcourse approximate make sure to write that since students are not all the same some never study for a subject yet they get excellent scores
+
+
+BRILLIANT PLAN!!!!!!!!!!!!!!!!!!!!!! : 
+Build a chatbot, give it a name, picture, just like mini chatgpt that you could talk with about your study stuff, it will be responsible to give you all the suggestions and stuff i mentioned earlier about your overall studied hours n stuff ,maybe make a 3rd room special for talking with this bot only, 
+
+4) Check the picture "idea" i put in the folder, maybe make a similar thing in a Dashboard room make it 1st room like first thing user sees when he opens the application, tells him his section, how many messages he have sent to the bot and vis-versa, since when he have been using the app, hours spent on the application (probably have to make a timer that runs behind the scenes), (if data.
+
+
+5) add a data 1 cell kima eli fil first day date, 7ot faha el current_version, wa3mel variable fi firebase esmou version_update (booleen) and another one named version (reel ex 1.1) wa9tili 3andek update badel el version_update lel True, wfil application a3mel condition if version_update == True: and current_version != version => display a window for updating
+
+
+6) add a share application button
+
+
+
+
+
+
+

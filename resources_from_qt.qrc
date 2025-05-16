@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>images/icons/youtube.png</file>
+    <file>images/icons/first.png</file>
+    <file>images/icons/fourth.png</file>
+    <file>images/icons/info.png</file>
+    <file>images/icons/second.png</file>
+    <file>images/icons/third.png</file>
+    <file>images/icons/discord.png</file>
+    <file>images/icons/save.png</file>
+    <file>images/icons/facebook.png</file>
+    <file>images/icons/expand.png</file>
+    <file>images/icons/door-key.png</file>
+    <file>images/icons/forward.png</file>
+    <file>images/icons/hide.png</file>
+    <file>images/icons/view.png</file>
+    <file>images/icons/next.png</file>
+    <file>images/icons/settings.png</file>
+  </qresource>
+</RCC>

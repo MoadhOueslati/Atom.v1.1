@@ -1,0 +1,56 @@
+##########################################################
+##########################################################
+Chers utilisateurs de Atom,
+
+Bienvenue de nouveau ! Si vous avez déjà installé Atom, nous apprécions votre soutien continu.
+
+IMPORTANT : Pour les utilisateurs qui ont déjà installé Atom, veuillez suivre ces étapes pour assurer un accès sans faille à vos données existantes :
+
+1. Localisez votre ancien fichier 'save.db' de votre installation précédente.
+2. Remplacez le fichier 'save.db' actuel dans le nouveau package d'installation par votre ancien 'save.db'.
+3. Lancez Atom.
+
+Cela garantira que vous pourrez accéder et continuer à suivre vos heures d'étude et autres données facilement.
+
+Merci d'avoir choisi Atom !
+
+Cordialement,
+
+##########################################################
+##########################################################
+Dear Atom Users,
+
+Welcome back! If you've previously installed Atom, we appreciate your continued support.
+
+IMPORTANT: For users who had Atom installed before, please follow these steps to ensure seamless access to your existing data:
+
+1. Locate your old 'save.db' file from your previous installation.
+2. Replace the current 'save.db' file in the new installation package with your old 'save.db'.
+3. Launch Atom.
+
+This will ensure that you can access and continue tracking your study hours and other data seamlessly.
+
+Thank you for choosing Atom!
+
+Best regards,
+##########################################################
+##########################################################
+عزيزي مستخدمي أتوم,
+
+مرحبًا مجدداً! إذا كنت قد قمت بتثبيت أتوم من قبل، فنحن نقدر دعمك المستمر.
+
+مهم: بالنسبة للمستخدمين الذين قاموا بتثبيت أتوم من قبل، يرجى اتباع هذه الخطوات لضمان الوصول السلس إلى بياناتك الحالية:
+
+1. ابحث عن ملف 'save.db' القديم من التثبيت السابق.
+2. استبدل ملف 'save.db' الحالي في حزمة التثبيت الجديدة بالملف 'save.db' القديم الخاص بك.
+3. قم بتشغيل أتوم.
+
+سيضمن هذا أن يمكنك الوصول ومتابعة تتبع ساعات الدراسة والبيانات الأخرى بسهولة.
+
+شكرًا لاختياركم أتوم!
+
+مع خالص التحية،
+##########################################################
+##########################################################
+
+
